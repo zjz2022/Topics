@@ -1,0 +1,3 @@
+为什么pusher要使用websocket搭建？有想过原因吗？
+
+为什么非得用websocket？

@@ -1,0 +1,1 @@
+promise如何捕获异常，promise的事件监听

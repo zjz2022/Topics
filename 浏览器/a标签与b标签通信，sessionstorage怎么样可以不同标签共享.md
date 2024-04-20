@@ -1,0 +1,1 @@
+a标签与b标签通信，sessionstorage怎么样可以不同标签共享

@@ -1,0 +1,1 @@
+关于存储除了cookie、localStorage和sessionStorage，其他有了解到吗？

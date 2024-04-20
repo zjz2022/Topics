@@ -1,0 +1,1 @@
+localStorage和indexDB的区别

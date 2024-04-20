@@ -1,0 +1,1 @@
+用typescript定义node节点，除了迭代方法还有吗？

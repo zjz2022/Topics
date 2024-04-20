@@ -1,0 +1,1 @@
+setTimeout、setInterval，时间准确吗（事件循环）

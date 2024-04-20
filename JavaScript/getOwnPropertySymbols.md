@@ -1,0 +1,3 @@
+getOwnPropertySymbols
+
+问了一下写的代码里getOwnPropertySymbols有啥用

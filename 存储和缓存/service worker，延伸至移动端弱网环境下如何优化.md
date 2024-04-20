@@ -1,0 +1,1 @@
+service worker，延伸至移动端弱网环境下如何优化

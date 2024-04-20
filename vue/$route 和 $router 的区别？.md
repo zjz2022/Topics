@@ -1,0 +1,1 @@
+\$route 和 \$router 的区别？

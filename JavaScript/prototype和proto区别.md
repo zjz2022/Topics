@@ -1,0 +1,1 @@
+prototype和proto区别

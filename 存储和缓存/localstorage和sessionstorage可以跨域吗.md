@@ -1,0 +1,1 @@
+localstorage和sessionstorage可以跨域吗

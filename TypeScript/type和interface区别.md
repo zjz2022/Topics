@@ -1,0 +1,9 @@
+type和interface区别
+
+
+
+
+
+### 两种方式定义的对象能引到的值有哪些，为什么
+
+![E7AF2BDEB733E88B3836BC7AB0B7165C](D:/%E6%96%87%E4%BB%B6/typora%E5%9B%BE%E7%89%87/E7AF2BDEB733E88B3836BC7AB0B7165C.png)

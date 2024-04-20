@@ -1,0 +1,5 @@
+typescript的好处在哪里
+
+type和interface区别
+
+typescript 和 JavaScript的区别

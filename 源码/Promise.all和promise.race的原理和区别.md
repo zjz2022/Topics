@@ -1,0 +1,1 @@
+Promise.all和promise.race的原理和区别

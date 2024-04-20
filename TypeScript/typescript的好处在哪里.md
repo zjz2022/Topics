@@ -1,0 +1,1 @@
+typescript的好处在哪里
