@@ -1,3 +1,0 @@
-typeof 有什么问题
-
-（答对数组使用的结果是object，他说不止于此，继续说typeof null是什么，答object，那它还有什么问题）typeof console.log返回什么，instanceof 怎么用，他又有什么问题…可以对基本类型用instanceof吗…

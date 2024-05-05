@@ -1,1 +1,0 @@
-说一下domcontentloaded和load的区别

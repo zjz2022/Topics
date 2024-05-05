@@ -1,4 +1,4 @@
-## `treeShaking`有了解吗？（直接两眼一黑想死了，连这个名字本身都只听过一两遍，更不用说这是什么了）
+## `treeShaking`有了解吗？
 
 `tree-shaking` 是一个在前端工程中常用的术语，主要用于**描述去除 JavaScript 文件中未使用的代码的过程**。这个概念在现代前端构建工具（如 Webpack、Rollup 等）中非常重要，因为它有助于减小最终打包文件的大小，从而提高应用的加载速度和性能。
 
@@ -22,13 +22,13 @@
 
 ```javascript
 // math.js
-export const add = (a, b) => a + b;
-export const multiply = (a, b) => a * b;
+export const add = (a, b) => a + b
+export const multiply = (a, b) => a * b
 
 // app.js
-import { add } from './math';
+import { add } from './math'
 
-console.log(add(1, 2));
+console.log(add(1, 2))
 ```
 
 在这个例子中，`multiply` 函数没有在 `app.js` 中被使用，因此通过 `tree-shaking`，这个函数会被从最终的打包文件中移除。
