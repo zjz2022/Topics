@@ -1,12 +1,4 @@
-## setTimeout setInterval
-
-### 47.1 为什么setTimeout有时候不准确，如何纠正setInterval倒计时的误差，如何实现一个准确的定时器
-
-### 47.2 setTimeout和setInterval的区别
-
-### 47.3 requestAnimationFrame执行机制
-
-### 47.4 家人们，setTimeout不准时是因为同步操作时间过长导致的，有啥解决方案吗,我寻思只能尽量减少高时延的同步操作
+### 家人们，setTimeout不准时是因为同步操作时间过长导致的，有啥解决方案吗,我寻思只能尽量减少高时延的同步操作
 
 ![image-20240225150853512](D:/%E6%96%87%E4%BB%B6/typora%E5%9B%BE%E7%89%87/image-20240225150853512.png)
 
