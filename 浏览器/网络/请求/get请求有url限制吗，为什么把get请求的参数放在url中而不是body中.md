@@ -1,0 +1,1 @@
+get请求有url限制吗，为什么把get请求的参数放在url中而不是body中
