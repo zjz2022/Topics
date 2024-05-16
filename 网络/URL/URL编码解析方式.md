@@ -1,0 +1,7 @@
+URL编码解析方式
+
+请求地址中如果出现非有效UNICODE编码内容，现代版浏览器会默认的进行编码
+
+1、基于encodeURI编码，可以基于decodeURI解码，一般用encodeURI编码，这样整个URL中的特殊字符都会自动编译
+
+2、encodeURIComponent/decodeURIComponet相对于encodeURI来说，不用给整个URL编码，而是给URL部分信息进行编码(一般是问号传参的值编码)
