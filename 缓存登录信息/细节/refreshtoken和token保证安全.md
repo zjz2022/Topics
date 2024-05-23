@@ -1,3 +1,0 @@
-## refreshtoken和token保证安全
-
-token设置过期时间短，暴露可能性大，但是他过期时间短哪怕暴露了也没事。关键是refreshtoken，这个玩意只会再access token失效是用到，过期时间长，暴露频率低。但是一旦被别人拿到，他可以拿这个一直去刷新获取新的token。可以用cookie存储这个refreshtoken，并且设置httponly:false，禁止客户端获取。还有一个思路，但是这个思路不全面。nginx是可以获取ip地址的，可以推断用户常用地址，如果某次异地登录或者其他的那就让refreshtoken和accesstoken都失效，跳转到登录页，但是这个方式有些问题，只能说算是一种思路吧 ... 
