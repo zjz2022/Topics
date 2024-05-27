@@ -1,0 +1,1 @@
+用image和background-size做背景，调整大小的时候怎么修改样式
