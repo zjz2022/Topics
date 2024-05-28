@@ -1,0 +1,1 @@
+promise.all和promise.once，如何处理报错
