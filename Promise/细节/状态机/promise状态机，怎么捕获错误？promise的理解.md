@@ -1,1 +1,0 @@
-promise状态机，怎么捕获错误？promise的理解
