@@ -1,4 +1,12 @@
+https://cloud.baidu.com/article/3286947
+
 #### CSS中的 "flex:1;" 是什么意思？
+
+grow 扩展，扩展比，当子元素宽度不足覆盖父盒子时，各自扩展的比例（分子）
+
+shrink 收缩  收缩比，当子元素宽度超出父盒子时，各自收缩的比例（分子）
+
+basis 基础  至少会有的长度，auto就是原始大小
 
 flex 是 flex-grow, flex-shrink 和 flex-basis的简写。
 
