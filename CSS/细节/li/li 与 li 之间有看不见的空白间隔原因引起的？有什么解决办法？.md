@@ -4,7 +4,9 @@
 
 **解决方法：**
 
-1. 可以将代码全部写在一排
+1. 可以将li代码全部写在一排
 2. 浮动li中float：left
 3. 在ul中用font-size：0（谷歌不支持）；
 4. 可以将 ul{letter-spacing: -4px;};li{letter-spacing: normal;}
+
+https://www.cnblogs.com/anpu/p/16330154.html
