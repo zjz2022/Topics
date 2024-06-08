@@ -12,6 +12,8 @@ flex 是 flex-grow, flex-shrink 和 flex-basis的简写。
 
 除了auto (1 1 auto) 和 none (0 0 auto)这两个快捷值外，还有以下设置方式：
 
+flex ： n    这个n是非负数字，那么就是 ` flex：n，1, 0%     `
+
 - 当 flex 取值为一个非负数字，则该数字为 flex-grow 值，flex-shrink 取 1，flex-basis 取 0%，如下是等同的：
 
   ```css
