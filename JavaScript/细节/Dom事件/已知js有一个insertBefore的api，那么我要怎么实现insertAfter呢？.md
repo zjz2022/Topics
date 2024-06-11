@@ -1,1 +1,0 @@
-已知js有一个insertBefore的api，那么我要怎么实现insertAfter呢？
