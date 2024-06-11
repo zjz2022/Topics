@@ -1,1 +1,0 @@
-script标签中的default属性

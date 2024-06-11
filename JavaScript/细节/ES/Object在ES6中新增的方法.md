@@ -1,1 +1,1 @@
-Object在ES6中新增的方法
+https://github.com/febobo/web-interview/issues/36

@@ -8,7 +8,7 @@
 >
 > has 是 找key 有就1 没有0
 
-### 25.1 map.set(nums[i], i)  和  map.set(i, nums[i])有区别吗？
+### map.set(nums[i], i)  和  map.set(i, nums[i])有区别吗？
 
 > 第一个是key，第二个设置的是value
 >
@@ -22,13 +22,13 @@
 
 使用哪种方式取决于你希望如何从 Map 中检索信息。如果你想通过元素值来查找其索引，使用 `map.set(nums[i], i)`将会比较有利。如果你希望通过索引来查找相应的元素值，那么使用 `map.set(i, nums[i])` 更为合适。
 
-### 25.2 那么我是  map.set(nums[i],i)  ，然后我 map.get(k)  ，那么获取的是key还是value？
+### 那么我是  map.set(nums[i],i)  ，然后我 map.get(k)  ，那么获取的是key还是value？
 
 map.get(k) 是在 map中找到k元素，然后返回k的索引值
 
 当你使用 `map.get(k)` 时，你实际上是在寻找键 `k` 对应的元素值，也就是键`k`在数组中的索引 `i`。
 
-### 25.3 map.has(k)是找k？还是找k的索引？
+### map.has(k)是找k？还是找k的索引？
 
 `map.has(k)` 方法是用来判断 Map 对象中是否含有特定的键 `k`。
 

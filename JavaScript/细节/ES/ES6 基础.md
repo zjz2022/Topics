@@ -1,3 +1,5 @@
+https://github.com/Geek-James/Blog/issues/24
+
 # ES6 基础
 
 ##  let const
