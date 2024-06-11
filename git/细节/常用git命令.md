@@ -1,3 +1,5 @@
+https://github.com/guanguans/notes/blob/master/Git/%E5%B8%B8%E7%94%A8Git%E5%91%BD%E4%BB%A4%E6%B8%85%E5%8D%95.md
+
 ## 常用git命令
 
 1. git init - 初始化一个新的Git仓库。
