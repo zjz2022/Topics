@@ -1,3 +1,1 @@
-git 原理
-
-为什么可以使用这些命令，实现这些操作？
+http://www.ruanyifeng.com/blog/2018/10/git-internals.html
