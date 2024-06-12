@@ -1,1 +1,0 @@
-为什么setTimeout有时候不准确，如何纠正setInterval倒计时的误差，如何实现一个准确的定时器

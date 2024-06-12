@@ -1,1 +1,0 @@
-setTimeout和setInterval的区别
