@@ -1,1 +1,0 @@
-为什么不使用 toString 而是 Object.prototype.toString()
