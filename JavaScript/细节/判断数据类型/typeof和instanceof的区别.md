@@ -1,5 +1,9 @@
 https://juejin.cn/post/6948666607455436830
 
+https://github.com/calidion/calidion.github.io/issues/63
+
+https://github.com/pro-collection/interview-question/issues/537
+
 ## 1：操作数数量不同
 
 typeof的操作数是 1个
