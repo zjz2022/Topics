@@ -1,3 +1,7 @@
+https://github.com/FrankKai/FrankKai.github.io/issues/229
+
+https://github.com/sisterAn/blog/issues/87
+
 arr.sort()是数组 (Array) 的一个内置方法，它用于对数组的元素进行排序。在没有提供比较函数（参数）的情况下，它会将数组元素转化为字符串，并按照字符的 Unicode 编码顺序进行排序。
 
 使用 arr.sort()进行排序的基本格式如下：

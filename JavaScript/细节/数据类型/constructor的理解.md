@@ -1,1 +1,0 @@
-constructor的理解
