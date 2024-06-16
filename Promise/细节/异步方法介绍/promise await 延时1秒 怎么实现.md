@@ -1,1 +1,0 @@
-promise await 延时1秒 怎么实现
