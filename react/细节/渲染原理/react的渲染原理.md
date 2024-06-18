@@ -1,1 +1,1 @@
-react的渲染原理
+https://github.com/haizlin/fe-interview/issues/950

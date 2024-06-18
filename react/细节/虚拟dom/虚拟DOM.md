@@ -1,3 +1,15 @@
+https://github.com/WindrunnerMax/EveryDay/blob/master/React/React%E8%99%9A%E6%8B%9FDOM%E7%9A%84%E7%90%86%E8%A7%A3.md
+
+https://github.com/hujiulong/blog/issues/4
+
+https://github.com/pfan123/Articles/issues/62
+
+https://github.com/MuYunyun/blog/blob/main/React/%E4%BB%8E0%E5%88%B01%E5%AE%9E%E7%8E%B0React/1.JSX%E5%92%8C%E8%99%9A%E6%8B%9FDOM.md
+
+https://github.com/febobo/web-interview/issues/181
+
+https://github.com/wwlh200/front-end-sharing/blob/master/react/react%E8%99%9A%E6%8B%9FDOM%E4%B8%8Ediff%E7%AE%97%E6%B3%95.md
+
 ## 虚拟DOM
 
 **它本质上是实际 DOM 的轻量级内存表示**
