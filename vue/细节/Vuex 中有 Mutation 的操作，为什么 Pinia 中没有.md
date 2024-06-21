@@ -1,1 +1,0 @@
-Vuex 中有 Mutation 的操作，为什么 Pinia 中没有

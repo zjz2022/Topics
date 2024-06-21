@@ -1,3 +1,13 @@
+https://github.com/webVueBlog/vue3-vite-pinia-template/issues/1
+
+https://github.com/hunter-ji/Blog/issues/57
+
+https://github.com/ljianshu/Blog/issues/109
+
+https://gist.github.com/sxzz/3995fc7251567c7c95de35f45539b9c2
+
+https://github.com/NervJS/taro/issues/10456
+
 ## script setup 是干啥的？
 
 scrtpt setup 是 vue3 的语法糖，简化了组合式 API 的写法，并且运行性能更好。使用 script setup 语法糖的特点：

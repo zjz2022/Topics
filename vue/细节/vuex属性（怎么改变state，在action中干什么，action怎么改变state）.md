@@ -1,1 +1,0 @@
-vuex属性（怎么改变state，在action中干什么，action怎么改变state）
