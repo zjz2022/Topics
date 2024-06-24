@@ -1,1 +1,0 @@
-为什么在beforeCreate中不能处理数据？

@@ -1,3 +1,9 @@
+https://github.com/vuejs/rfcs/discussions/519
+
+https://juejin.cn/post/7122281979462533128
+
+https://www.nowcoder.com/discuss/513503986318696448
+
 ### vue中v-if和v-for优先级在vue2和vue3中的区别
 
 实践中不管是vue2或者vue3都不应该把v-if和v-for放在一起使用。
