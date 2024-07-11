@@ -1,3 +1,9 @@
+Vue 3 是一个我们不应该重复的错误 https://medium.com/js-dojo/vue-3-was-a-mistake-that-we-should-not-repeat-81cc65484954
+
+Biggest disadvantages of Vue https://www.reddit.com/r/vuejs/comments/80n9mz/biggest_disadvantages_of_vue/
+
+Vue.js 与 React 相比的缺点 https://jannchie.com/en/posts/vue-vs-react
+
 框架性能瓶颈：
 
 **react：**

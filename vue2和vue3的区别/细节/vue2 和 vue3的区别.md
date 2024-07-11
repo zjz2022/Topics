@@ -1,3 +1,5 @@
+vue作者亲自下场：https://medium.com/js-dojo/vue-3-was-a-mistake-that-we-should-not-repeat-81cc65484954
+
 https://github.com/AnsonZnl/v-blog/blob/master/docs/articles/Vue/Vue3%E5%AF%B9%E6%AF%94Vue2%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96.md
 
 vue2 和 vue3的区别
